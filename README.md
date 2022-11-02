@@ -1,2 +1,2 @@
 # Employee-Management-System-Backend
-Backend part of the employee management system using Spring Boot
+This app emulates the process of managing employees in the company. User can Add,Edit,Delete,Search employees.
